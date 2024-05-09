@@ -21,5 +21,8 @@ public class Application {
 		System.out.println("3 change");
 		System.out.println("4 change");
 	}
-	
+	public void login()
+	{
+		System.out.println("new From login");
+	}
 }
