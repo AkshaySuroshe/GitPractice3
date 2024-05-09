@@ -17,5 +17,8 @@ public class Application {
 	public void m2()
 	{
 		System.out.println("1 change");
+		System.out.println("2 change");
+		System.out.println("3 change");
 	}
+	
 }
