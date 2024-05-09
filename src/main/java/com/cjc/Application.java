@@ -25,4 +25,10 @@ public class Application {
 	{
 		System.out.println("new From login");
 	}
+
+	public void mergetologin()
+	{
+		//developer Akshay is trying to merge the files in login
+		System.out.println("master to login merge");
+	}
 }
