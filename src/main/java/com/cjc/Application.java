@@ -21,5 +21,23 @@ public class Application {
 		System.out.println("3 change");
 		System.out.println("4 change");
 	}
-	
+	public void login()
+	{
+		System.out.println("new From login");
+	}
+
+	public void mergetologin()
+	{
+		//developer Akshay is trying to merge the files in login
+		System.out.println("master to login merge");
+
+		for(int i = 0; i<10; i++)
+		{
+			System.out.println(i);
+		}
+	}
+	public void sukuu()
+	{
+		System.out.println("Sukuuu changes");
+	}
 }
