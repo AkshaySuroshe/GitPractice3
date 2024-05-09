@@ -30,5 +30,10 @@ public class Application {
 	{
 		//developer Akshay is trying to merge the files in login
 		System.out.println("master to login merge");
+
+		for(int i = 0; i<10; i++)
+		{
+			System.out.println(i);
+		}
 	}
 }
