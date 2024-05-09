@@ -40,4 +40,8 @@ public class Application {
 	{
 		System.out.println("Sukuuu changes");
 	}
+	public void sukuuu2()
+	{
+		System.out.println("False changes");
+	}
 }
