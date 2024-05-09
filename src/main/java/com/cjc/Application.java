@@ -45,4 +45,9 @@ public class Application {
 	{
 		System.out.println("true changes");
 	}
+
+	public void combineStageAndCommit()
+	{
+		System.out.println("combineStageAndCommit");
+	}
 }
