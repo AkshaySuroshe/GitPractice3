@@ -36,4 +36,8 @@ public class Application {
 			System.out.println(i);
 		}
 	}
+	public void sukuu()
+	{
+		System.out.println("Sukuuu changes");
+	}
 }
