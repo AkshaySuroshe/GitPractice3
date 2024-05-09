@@ -12,6 +12,10 @@ public class Application {
 
 	public void m1()
 	{
-		
+		System.out.println("1 change");
+	}
+	public void m2()
+	{
+		System.out.println("1 change");
 	}
 }
